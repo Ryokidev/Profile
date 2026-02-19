@@ -1,0 +1,11 @@
+{
+  "name": "link-in-bio",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "serve . -l 5000"
+  },
+  "devDependencies": {
+    "serve": "^14.2.5"
+  }
+}
+
